@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "Quancai Technology",
+    "titleBarColor": "#fff"
+  }
+}

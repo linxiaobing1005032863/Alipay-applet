@@ -1,0 +1,13 @@
+<view class="page-logins">
+
+  <view class="user">
+    <image class="avatar" src="{{'../../assets/logo.png'}}" background-size="cover"></image>
+    <view class="app-name">全球体育</view>
+  </view>
+
+  <view class="logins-items">
+     <input  class="username" placeholder="用户名" onBlur="getUsername" value="{{username}}" />
+     <input class="password"  password type="text"  placeholder="密码" onBlur="getPass"value="{{password}}"/>
+     <button class="login" onTap="login">登录</button>
+  </view>
+</view>

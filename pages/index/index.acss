@@ -1,0 +1,8 @@
+.page-index{
+  width:100%;
+  height:300rpx;
+  line-height: 300rpx;
+  text-align: center;
+  font-size: 30rpx;
+  color:#149df4;
+}
